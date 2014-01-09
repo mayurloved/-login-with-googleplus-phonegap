@@ -4,7 +4,6 @@
 by [Mayur Panchal](http://www.excellentwebworld.com)
 
 
-###we have give all the files here for demo and steps to integrete in you app please follow link [link] 
+###we have give all the files here for demo and steps to integrete in you app please follow [link](http://www.excellentwebworld.com/add-google-login-into-phonegap-application/)
 
-(http://www.excellentwebworld.com/add-google-login-into-phonegap-application/)
 [![Mayur Panchal](http://excellentwebworld.com/wp-content/uploads/2013/07/logo.png)](http://www.excellentwebworld.com/ "Blogging")
